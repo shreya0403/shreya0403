@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**shreya0403/shreya0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello World! I'm *Kumari Shreya*, an aspiring Data Analyst with a knack for solving complex problems and uncovering trends, I'm excited to contribute and learn from the amazing GitHub community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 My toolbox includes Python, SQL, and data visualization tools like Matplotlib, Seaborn, Tableau, PowerBI
+
+🚀 I thrive on using data to drive decision-making and froster innovation
+
+🌐 Let's connect and build something incredible together! 
+
+📫 How to reach me: [LinkedIn]https://www.linkedin.com/in/kshreya43/)
+
+⚡ Fun fact: ♥️ Photography 📷 Traveling 🌏 
+
