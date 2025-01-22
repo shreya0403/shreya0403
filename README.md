@@ -11,5 +11,6 @@ Hello World! I'm *Kumari Shreya*, an aspiring Data Analyst with a knack for solv
 
 📫 How to reach me: [LinkedIn]https://www.linkedin.com/in/kshreya43/)
 
-⚡ Fun fact: ♥️ Photography 📷 Traveling 🌏 
+⚡ Fun fact: ♥️ Photography 📷 Traveling 🌏 Cooking 🍳
+
 
